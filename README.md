@@ -5,5 +5,5 @@ Visualizing different parameters of Data Science salaries in 2023 primarily usin
 
 The dataset can be obtained using this [link](https://www.kaggle.com/datasets/iamsouravbanerjee/data-science-salaries-2023)
 
-## Detailed report and python code are present in respective folders
+## Detailed report and python code are present in the folder
 
